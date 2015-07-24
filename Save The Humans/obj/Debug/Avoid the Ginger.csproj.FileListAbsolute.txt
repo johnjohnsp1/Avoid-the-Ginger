@@ -1,0 +1,12 @@
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe.config
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainWindow.baml
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainWindow.g.cs
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.cache
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.g.resources
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save_The_Humans.Properties.Resources.resources
+C:\Users\rjk\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Avoid the Ginger.csproj.GenerateResource.Cache
